@@ -1,0 +1,42 @@
+.head{
+    background-color: rgb(60, 32, 32);
+    padding-top: 20px;
+}
+h2{
+    text-align: left;
+}
+h1{
+    color: rgb(111, 50, 14);
+    background-color: white;
+    text-align: center;
+}
+ul{
+    text-align: center;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.img{
+    text-align: center;
+}
+#chick{
+    text-align: center;
+    background-color: rgb(246, 239, 239);
+}
+#noddle{
+    background-color: rgb(246, 239, 239);
+    text-align: center;
+}
+#featured{
+    background-color: rgb(246, 239, 239);
+    text-align: center;
+}
+form{
+    background-color: rgb(246, 239, 239);
+}
+#submit{
+    background-color: red;
+    color: white;
+}
